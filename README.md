@@ -66,7 +66,7 @@ Este repositório contém o conteúdo e o acompanhamento do curso **Python 101**
 
 ## 📅 Calendário das Aulas
 
-- **08/07/2025**
+- **08/07/2025** ✔️
 - **22/07/2025**
 - **05/08/2025**
 - **19/08/2025**
