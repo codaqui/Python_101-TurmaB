@@ -1,5 +1,6 @@
 ﻿'''
 estrutura basica de um else if
+(senao se)
 '''
 
 nota = 75
