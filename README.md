@@ -8,12 +8,12 @@ Este repositório contém o conteúdo e o acompanhamento do curso **Python 101**
 
 ### 🔹 Módulo 1 – Fundamentos de Programação em Python
 
-1. **Aula 1: Variáveis e Tipos de Dados**   ⏳
+1. **Aula 1: Variáveis e Tipos de Dados**   ✔️
    - Introdução às variáveis  
    - Tipos de dados básicos (`int`, `float`, `str`, `bool`)  
    - Operações matemáticas e manipulação de strings  
 
-2. **Aula 2: Estruturas Lógicas e Condicionais**   ⏳
+2. **Aula 2: Estruturas Lógicas e Condicionais**   ✔️
    - Estruturas de decisão (`if`, `else`, `elif`)  
    - Operadores de comparação e lógicos  
 
@@ -67,8 +67,8 @@ Este repositório contém o conteúdo e o acompanhamento do curso **Python 101**
 ## 📅 Calendário das Aulas
 
 - **08/07/2025** ✔️
-- **22/07/2025**
-- **05/08/2025**
+- **22/07/2025** ✔️
+- **05/08/2025** ✔️
 - **19/08/2025**
 - **02/09/2025**
 - **16/09/2025**
