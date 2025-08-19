@@ -17,7 +17,7 @@ Este repositório contém o conteúdo e o acompanhamento do curso **Python 101**
    - Estruturas de decisão (`if`, `else`, `elif`)  
    - Operadores de comparação e lógicos  
 
-3. **Aula 3: Estruturas de Repetição**   ⏳
+3. **Aula 3: Estruturas de Repetição**   ✔️
    - Laços de repetição (`for`, `while`)  
    - Controle de fluxo (`break`, `continue`)  
 
