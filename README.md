@@ -25,11 +25,11 @@ Este repositório contém o conteúdo e o acompanhamento do curso **Python 101**
 
 ### 🔹 Módulo 2 – Manipulação de Dados e Coleções
 
-1. **Aula 4: Coleções**   ⏳
+1. **Aula 4: Coleções**   ✔️
    - Listas, tuplas, conjuntos, dicionários  
    - Métodos e operações comuns em coleções  
 
-2. **Aula 5: Comprehensions**   ⏳
+2. **Aula 5: Comprehensions** ✔️
    - List comprehensions e outras formas (`set`, `dict`, `generator`)  
    - Usos e boas práticas  
 
@@ -72,8 +72,8 @@ Este repositório contém o conteúdo e o acompanhamento do curso **Python 101**
 - **19/08/2025** ✔️
 - **02/09/2025** repor
 - **16/09/2025** ✔️
-- **30/09/2025**
-- **14/10/2025**
+- **30/09/2025** repor
+- **14/10/2025** ✔️
 - **28/10/2025**
 - **11/11/2025**
 
