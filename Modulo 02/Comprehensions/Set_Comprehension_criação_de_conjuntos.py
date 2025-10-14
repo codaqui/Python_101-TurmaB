@@ -14,4 +14,5 @@ print(pares_set)  # {2, 4}
 
 # Set Comprehension com Condição e Expressão
 cubos_set = {n**3 for n in numeros if n % 2 != 0}
+#         - {expressão for item in iterável if condição}
 print(cubos_set)  # {1, 27, 125}

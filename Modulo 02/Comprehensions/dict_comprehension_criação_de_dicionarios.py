@@ -6,4 +6,5 @@
 # Exemplo de Dict Comprehension:
 nomes = ["ana", "bruno", "carlos"]
 dicionario = {nome: len(nome) for nome in nomes}
+#          - {chave: valor for item in iterável if condição}
 # {'ana': 3, 'bruno': 5, 'carlos': 6}

@@ -10,4 +10,5 @@ print(quadrados)  # [1, 4, 9, 16, 25]
 
 # List Comprehension com Condição
 pares = [n for n in numeros if n % 2 == 0]
+#       [expressão for item in iterável if condição]
 print(pares)  # [2, 4]

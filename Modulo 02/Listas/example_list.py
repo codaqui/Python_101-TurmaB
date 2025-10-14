@@ -21,6 +21,6 @@ Métodos uteis para listas:
 | `remove()` | Remove a primeira ocorrência           | `frutas.remove("uva")`        |
 | `pop()`    | Remove e retorna um item (por índice)  | `frutas.pop(0)`               |
 | `len()`    | Retorna o tamanho da lista             | `len(frutas)`                 |
-| `sort()`   | Ordena a lista **(modifica original)** | `frutas.sort()`               |
+| `sort()`   | Ordena a lista **(modifica original)** em ordem alfabetica | `frutas.sort()`               |
 | `sorted()` | Ordena **sem modificar original**      | `nova = sorted(frutas)`       |
 """
