@@ -1,12 +1,12 @@
 ﻿# Exemplo 1: variável local não afeta a global
-x = 10  # variável global
+p = 10  # variável global
 
 def mostra_x():
     x = 5  # variável local: só existe dentro da função
     print("Dentro de mostra_x, x =", x)
 
 mostra_x()           # imprime: Dentro de mostra_x, x = 5
-print("Fora da função, x =", x)  # imprime: Fora da função, x = 10
+print("Fora da função, x =", p)  # imprime: Fora da função, x = 10
 
 # Exemplo 2: usando 'global' para modificar a variável global
 y = 20
